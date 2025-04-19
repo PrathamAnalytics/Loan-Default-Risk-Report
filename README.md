@@ -63,7 +63,7 @@ Financial institutions often face challenges in identifying potentially risky bo
  - Low-risk profile: Good credit score + stable income + small loan + urban location
 - This profiling offers actionable targeting strategies for loan disbursement and marketing.
 
-## 6. ***Advanced Analysis Highlights***
+## 6. ***Advanced Analysis***
 - Applied target-based aggregations to reveal top defaulters by income groups, regions, and employment type.
 - Conducted loan amount-to-income ratio analysis: higher ratios correlated with more defaults, indicating poor affordability assessment.
 - Used boxplots & violin plots to visualize distribution differences across defaulted vs. repaid loans, surfacing behavioral patterns visually.
