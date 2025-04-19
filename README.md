@@ -125,6 +125,15 @@ Business Impact:
 - Builds financial resilience for borrowers
 - Enhances lender’s risk-adjusted profitability
 
- 
+## 5. ***Continuous Monitoring with Early Warning Systems***
+- Static assessments at loan disbursal don’t catch early signs of repayment trouble.
+- Build a loan monitoring system using payment patterns, employment status updates, and soft credit pulls.
+- Introduce a loan health score that updates monthly to flag accounts slipping into risk.
+- Send proactive reminders and offer refinancing before default risk peaks.
+
+Business Impact:
+- Increases early recovery rates by 25%
+- Strengthens borrower-lender communication loop
+- Decreases collection costs and enhances customer experience
 
  
