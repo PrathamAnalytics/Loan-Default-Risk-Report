@@ -42,10 +42,10 @@ Financial institutions often face challenges in identifying potentially risky bo
 
 ## 2. ***Bivariate Analysis***
 - We explored how variables interacted with loan status (default vs. repaid):
- - Income vs. Default: Clear negative relationship — as income increases, default risk decreases. Low-income groups (< ₹25,000) had higher default rates.
- - Loan Amount vs. Default: No strong linear pattern, but defaults slightly increased for larger loan amounts, hinting at over-leveraging.
- - Education & Employment Status: Self-employed and non-graduates had noticeably higher default rates.
- - Property Area & Loan Status: Semi-urban borrowers defaulted more, suggesting location-specific risk patterns.
+   - Income vs. Default: Clear negative relationship — as income increases, default risk decreases. Low-income groups (< ₹25,000) had higher default rates.
+   - Loan Amount vs. Default: No strong linear pattern, but defaults slightly increased for larger loan amounts, hinting at over-leveraging.
+   - Education & Employment Status: Self-employed and non-graduates had noticeably higher default rates.
+   - Property Area & Loan Status: Semi-urban borrowers defaulted more, suggesting location-specific risk patterns.
 
 ## 3. ***Correlation Analysis***
 - A correlation matrix heatmap revealed only mild correlations among numerical features.
@@ -59,8 +59,8 @@ Financial institutions often face challenges in identifying potentially risky bo
 
 ## 5. ***Risk Segmentation & Profiling***
 - We segmented borrowers into low, medium, and high-risk profiles using feature combinations:
- - High-risk profile: Low income + no credit history + large loan amount + non-graduate + semi-urban
- - Low-risk profile: Good credit score + stable income + small loan + urban location
+   - High-risk profile: Low income + no credit history + large loan amount + non-graduate + semi-urban
+   - Low-risk profile: Good credit score + stable income + small loan + urban location
 - This profiling offers actionable targeting strategies for loan disbursement and marketing.
 
 ## 6. ***Advanced Analysis***
