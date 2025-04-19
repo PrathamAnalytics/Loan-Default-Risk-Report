@@ -15,7 +15,7 @@ Financial institutions often face challenges in identifying potentially risky bo
 - Empower decision-makers with targeted, data-driven lending strategies.
 
 # ***Technical Overview***
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Jupyter Notebook
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - **Techniques**: 
   - Exploratory Data Analysis (EDA)
   - Outlier Handling & Missing Value Treatment
